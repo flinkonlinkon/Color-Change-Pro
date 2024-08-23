@@ -21,7 +21,7 @@ const [auco, setAuco] = useState("#212121")
           // console.log(dmco);
           
           
-        }, 1000);
+        }, 3000);
       }}>Auto color</button>
       <div className="bottom-[-20px] relative">
       
